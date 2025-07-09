@@ -47,7 +47,10 @@ An AI-powered full-stack web app to **analyze portfolio risk** and **predict fut
 - NumPy & Pandas
 
 ---
+# Demo Video :- 
+https://drive.google.com/file/d/1V7dXr748pkbl4-5eD0VrZocKHaJFdoOp/view?usp=sharing
 
+---
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
