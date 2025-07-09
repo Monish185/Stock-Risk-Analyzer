@@ -3,7 +3,12 @@
 An AI-powered full-stack web app to **analyze portfolio risk** and **predict future stock prices** using Deep Learning. Built with `FastAPI`, `React`, and `TensorFlow`.
 
 ![image](https://github.com/user-attachments/assets/c5001363-b18c-48eb-a24d-7537e56e766b)
+
+
 ![image](https://github.com/user-attachments/assets/ac5832d4-b06d-4ce8-be70-d5f78d8dc529)
+
+
+![image](https://github.com/user-attachments/assets/94fcae03-ed05-46fe-912c-4e3d3ea0dacf)
 
 
 
