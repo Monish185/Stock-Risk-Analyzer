@@ -1,2 +1,52 @@
-# Stock-Risk-Analyzer
-Full-stack DL-powered app for stock price prediction &amp; portfolio risk analysis
+# 📊 Stock Risk Analyzer & Price Predictor
+
+An AI-powered full-stack web app to **analyze portfolio risk** and **predict future stock prices** using Deep Learning. Built with `FastAPI`, `React`, and `TensorFlow`.
+
+![image](https://github.com/user-attachments/assets/c5001363-b18c-48eb-a24d-7537e56e766b)
+![image](https://github.com/user-attachments/assets/ac5832d4-b06d-4ce8-be70-d5f78d8dc529)
+
+
+
+---
+
+## 🔍 Features
+
+- 📈 **Multi-Ticker Portfolio Risk Analysis**  
+  Enter multiple stock tickers and weights — get risk metrics like **Expected Return**, **Volatility**, and **Sharpe Ratio**.
+
+- 🤖 **Stock Price Prediction**  
+  Predict the next day price of a stock using LSTM-based deep learning model.
+
+- 🌐 **Interactive Frontend**  
+  Clean, responsive UI using React + Material UI.
+
+- 🔁 **Toggle between Raw Price & % Returns** in charts
+
+- ☁️ **Live Chart Visualization** using Chart.js
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+- React.js
+- Material UI
+- Axios
+- Chart.js
+
+### Backend:
+- FastAPI
+- TensorFlow / Keras
+- yFinance
+- Scikit-Learn
+- NumPy & Pandas
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Monish185/Stock-Risk-Analyzer.git
+cd Stock-Risk-Analyzer
