@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+
+# Node
+node_modules/
+dist/
+build/
+
+# VSCode/OS
+.DS_Store
+.env
