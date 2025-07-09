@@ -55,3 +55,32 @@ An AI-powered full-stack web app to **analyze portfolio risk** and **predict fut
 ```bash
 git clone https://github.com/Monish185/Stock-Risk-Analyzer.git
 cd Stock-Risk-Analyzer
+
+```
+### 2. Backend Setup
+
+```bash
+
+cd backend
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+uvicorn app:app --reload
+```
+
+### 3. Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## Model Training
+The LSTM model is trained on 120-day windows of stock closing prices fetched via yFinance, and saved using Keras.
+
+## Made with ❤️ by Monish Mathur
+
+📧 monishmathurt@gmail.com 
+
+🔗 https://www.linkedin.com/in/monish-mathur-949b5a284/
